@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cb4225f-c3ac-4d4b-a6ca-d7421466775c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/profile/new-meal.html" afterPath="$PROJECT_DIR$/profile/new-meal.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +20,7 @@
       <file leaf-file-name="sign-up.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signup/sign-up.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
+            <state relative-caret-position="620">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
@@ -30,7 +30,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1519">
+            <state relative-caret-position="1302">
               <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
@@ -42,8 +42,8 @@
       <file leaf-file-name="new-meal.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/profile/new-meal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4060">
-              <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+            <state relative-caret-position="808">
+              <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/profile/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1674">
+            <state relative-caret-position="1581">
               <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding />
             </state>
@@ -149,23 +149,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="mealPlanner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mealPlanner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mealPlanner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mealPlanner" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mealPlanner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mealPlanner" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mealPlanner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mealPlanner" type="462c0819:PsiDirectoryNode" />
-              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="mealplanner-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mealplanner-github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,11 +204,12 @@
       <workItem from="1519924566443" duration="13083000" />
       <workItem from="1520003421920" duration="11147000" />
       <workItem from="1520273410659" duration="3406000" />
+      <workItem from="1520285869007" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27869000" />
+    <option name="totallyTimeSpent" value="27888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -277,6 +263,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/profile/new-meal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/new-meal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4309">
+          <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup/sign-up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/profile/new-meal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1364">
@@ -305,7 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
+        <state relative-caret-position="1581">
           <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
           <folding />
         </state>
@@ -501,7 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1519">
+        <state relative-caret-position="1302">
           <caret line="42" column="50" lean-forward="false" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
@@ -511,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/signup/sign-up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="620">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -527,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile/new-meal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4060">
-          <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+        <state relative-caret-position="808">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
           <folding />
         </state>
       </provider>
